@@ -1,3 +1,1 @@
-# sequencia-ds-restaurante-joao-rissi
-
-- java version 23
+# EU TO FAZENDO COM O TAKEDI O PROJETO TA NO REP DELE
